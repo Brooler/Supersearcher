@@ -6,3 +6,14 @@
 /Supersearcher/.vs/Supersearcher/v16
 /Supersearcher/Supersearcher/obj
 /Supersearcher/Supersearcher/.vs/Supersearcher/v16
+*.v2
+/Supersearcher/Supersearcher/bin/Debug/netcoreapp3.1
+/Supersearcher/Supersearcher.Domain/bin/Debug/netcoreapp3.1
+/Supersearcher/Supersearcher.Domain/obj
+/Supersearcher/Supersearcher.Providers.BingSearch
+/Supersearcher/Supersearcher.Providers.FileSystemSearch/bin/Debug/netcoreapp3.1
+/Supersearcher/Supersearcher.Providers.FileSystemSearch/obj
+/Supersearcher/Supersearcher.Providers.GoogleSearch/bin/Debug/netcoreapp3.1
+/Supersearcher/Supersearcher.Providers.GoogleSearch/obj
+/Supersearcher/Supersearcher.Statistics/bin/Debug/netcoreapp3.1
+/Supersearcher/Supersearcher.Statistics/obj

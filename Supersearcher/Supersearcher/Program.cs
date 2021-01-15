@@ -6,7 +6,10 @@ namespace Supersearcher
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var query = Console.ReadLine();
+            Console.WriteLine(query);
+
+            Console.ReadKey();
         }
     }
 }
