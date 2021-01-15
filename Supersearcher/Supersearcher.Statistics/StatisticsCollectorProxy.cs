@@ -18,7 +18,7 @@ namespace Supersearcher.Statistics
 
             var result = await provider.Search(query, maxResultsCount, cancellationToken);
 
-            //TODO: Collect statistics
+            //TODO: Collect statistics (using Singleton in our case)
 
             return result;
         }

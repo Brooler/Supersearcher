@@ -8,7 +8,7 @@ namespace Supersearcher.Statistics
     {
         public Task<StatisticsModel> PrepareStatistics()
         {
-            //TODO: Prepare Statistics model
+            //TODO: Prepare Statistics model (using singleton in our case)
             throw new System.NotImplementedException();
         }
     }
