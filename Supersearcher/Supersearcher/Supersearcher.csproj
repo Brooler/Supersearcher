@@ -5,4 +5,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Supersearcher.Domain\Supersearcher.Domain.csproj" />
+    <ProjectReference Include="..\Supersearcher.Providers.FileSystemSearch\Supersearcher.Providers.FileSystemSearch.csproj" />
+    <ProjectReference Include="..\Supersearcher.Providers.GoogleSearch\Supersearcher.Providers.GoogleSearch.csproj" />
+    <ProjectReference Include="..\Supersearcher.Statistics\Supersearcher.Statistics.csproj" />
+  </ItemGroup>
+
 </Project>
